@@ -2,3 +2,8 @@
 h1{
     text-transform: uppercase;
 }
+p{
+    text-align: justify;
+    font-size: 18px;
+    color: red;
+}
